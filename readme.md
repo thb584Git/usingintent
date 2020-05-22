@@ -1,5 +1,4 @@
 # Working Intent sample
 
-- additional Back Button
-- added on second Activity
+- additional Back Button added on second Activity
 
